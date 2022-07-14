@@ -1,6 +1,14 @@
 # گام اول آموزش
 ایجاد یک کامپونت با classBase Component
+class App extends Component {
+    render() {
+        return (
+           
+        )
+    }
+}
 
+ایجاد یک فانکشنال کامپوننت 
 
 
 # Getting Started with Create React App
