@@ -1,3 +1,8 @@
+# گام اول آموزش
+ایجاد یک کامپونت با classBase Component
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
